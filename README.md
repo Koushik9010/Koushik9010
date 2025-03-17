@@ -1,25 +1,29 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIyNDE1NzYsIm5iZiI6MTc0MjI0MTI3NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE3VDE5NTQzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhZTViYTc0YWNjOGVhYjk3OTRkNjQ5MWNiZTA5ODM1YTYyNzY0NmQyNDBmN2JmMmYxZjQzYmM5OTIxZDUyZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.A8pfjL6un9lCkZQK3bHJMSFl2WYOYWF1O1U8C34XliM"/ width="300" height="150">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="MasterHead" width="100%" height="400px"/>
 </p>
-
----
-
 <h1 align="center">Hi there, I'm Koushik Dey Anik! 👋</h1>
 <h3 align="center">Aspiring Web Developer | B.Sc. in CSE | Passionate Learner 🚀</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/>
-</p>
 
 ---
 
 ## 👨‍💻 About Me:
-- 🎓 **B.Sc. in CSE** at **Port City International University**  
-- 💻 Passionate about **Web Development** & **Problem-Solving**  
-- 🚀 Exploring **MERN Stack Development**  
-- 🎯 Strong foundation in **HTML, CSS, JavaScript, C, and Python**  
-- 🔥 Currently working on **Frontend Mentor Challenges**  
-- 🤝 Open to **collaboration & learning new technologies**  
+
+<div align="center">
+  <img align="right" alt="Coding" width="500" height="180" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/>
+  
+  <div align="left">
+    <ul>
+      <li>🎓 <b>B.Sc. in CSE</b> at <b>Port City International University</b></li>
+      <li>💻 Passionate about <b>Web Development</b> & <b>Problem-Solving</b></li>
+      <li>🚀 Exploring <b>MERN Stack Development</b></li>
+      <li>🎯 Strong foundation in <b>HTML, CSS, JavaScript, C, and Python</b></li>
+      <li>🔥 Currently working on <b>Frontend Mentor Challenges</b></li>
+      <li>🤝 Open to <b>collaboration & learning new technologies</b></li>
+    </ul>
+  </div>
+</div>
+
+
 
 ---
 
@@ -51,6 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Koushik9010&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>  
   <img src="https://streak-stats.demolab.com/?user=Koushik9010&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushik9010&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%"/>
