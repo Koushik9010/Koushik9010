@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me:
 <p align="center">
   <a href="https://www.facebook.com/share/1BakMPy69M/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="45px"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> 
   <a href="https://www.instagram.com/koushik_dey_anik?igsh=MWZzNDNvd2V5Y2wxdA==" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45px"/>
