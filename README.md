@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIyMzk3NTMsIm5iZiI6MTc0MjIzOTQ1MywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE3VDE5MjQxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4MzQyMGVmNmJkZDg4ZTAwYjgzZWFmMmE5NjZlYmM2Y2Y0M2Q5YTcxN2QxMzdkYTllNzkyMGYyMTM5MTJkMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7ldyPQx1ZG6Vy2mCa30DDuEit76tlhZpoiNs1hveAnU"/ width="300" height="150">
+</p>
+
+---
+
 <h1 align="center">Hi there, I'm Koushik Dey Anik! 👋</h1>
 <h3 align="center">Aspiring Web Developer | B.Sc. in CSE | Passionate Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200px"/>
+  <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/>
 </p>
 
 ---
@@ -20,13 +26,13 @@
 ## 🌐 Connect with Me:
 <p align="center">
 <a href="https://www.facebook.com/share/1BakMPy69M/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="60" height="60"/>
 </a> 
 <a href="https://www.instagram.com/koushik_dey_anik?igsh=MWZzNDNvd2V5Y2wxdA==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60"/>
 </a> 
 <a href="https://www.linkedin.com/in/koushik-dey-anik-97b332343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60"/>
 </a>
 </p>
 
