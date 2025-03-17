@@ -18,7 +18,7 @@
 ---
 
 ## 🌐 Connect with Me:
-<p align="left">
+<p align="center">
 <a href="https://www.facebook.com/share/1BakMPy69M/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
 </a> 
