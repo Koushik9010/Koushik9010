@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Koushik9010&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/Koushik9010/count.svg" alt="Profile Views"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
