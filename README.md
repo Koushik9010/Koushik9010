@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me:
 
 <div align="center">
-  <img align="right" alt="Coding" width="500" height="180" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/>
+  <img align="right" alt="Coding" width="450" height="180" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"/>
   
   <div align="left">
     <ul>
