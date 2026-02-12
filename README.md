@@ -16,8 +16,6 @@
       <li>🎓 <b>B.Sc. in CSE</b> at <b>Port City International University</b></li>
       <li>💻 Passionate about <b>Web Development</b> & <b>Problem-Solving</b></li>
       <li>🚀 Exploring <b>MERN Stack Development</b></li>
-      <li>🎯 Strong foundation in <b>HTML, CSS, JavaScript, C, and Python</b></li>
-      <li>🔥 Currently working on <b>Frontend Mentor Challenges</b></li>
       <li>🤝 Open to <b>collaboration & learning new technologies</b></li>
     </ul>
   </div>
@@ -50,27 +48,41 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koushik9010&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>  
-  <img src="https://streak-stats.demolab.com/?user=Koushik9010&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/>
-</p>
+## 🚀 Featured Projects
 
+### 🛒 EpicBites – MERN Stack Food Platform
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushik9010&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%"/>
-</p>
+A full-stack food ordering platform with separate dashboards for different roles.
 
+🔹 Built with MongoDB, Express, React & Node.js  
+🔹 Role-Based Authentication System  
+🔹 Fully Responsive UI  
+
+#### 🌐 Live Sites:
+- 👤 User Panel: [Visit Site](https://epicbites.onrender.com)
+- 🛠 Admin Panel: [Visit Site](https://epicbites-admin.onrender.com)
+- 🚚 Rider Panel: [Visit Site](https://epicbites-rider.onrender.com)
+---
+
+### 📝 DailyDoodle - A Complete Notes Management Platform
+
+A simple and clean CRUD-based notes platform.
+
+🔹 Create, Edit, Delete Notes  
+🔹 Local Storage / Database Integration  
+🔹 Clean and Responsive UI 
+🔹 User Authentication System
+
+🌐 Live Demo:  [Visit Site](https://dailydoodle.onrender.com)
 ---
 
 ## 🎯 Fun Facts:
-- 🏆 I love **solving problems in C & Python**  
 - 🚀 Always improving my **JavaScript skills**  
 - 📌 Currently diving into **MERN Stack Development**  
 - 💬 Let's **connect & collaborate** on projects!  
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://profile-counter.glitch.me/Koushik9010/count.svg" alt="Profile Views"/>
-</p>
+</p> -->
